@@ -1,0 +1,99 @@
+{
+  "appTitle": "ខ្មែរគូ",
+  
+  "login": "ចូល",
+  
+  "register": "ចុះឈ្មោះ",
+  
+  "email": "អ៊ីមែល",
+  
+  "password": "លេខសម្ងាត់",
+  
+  "confirmPassword": "បញ្ជាក់លេខសម្ងាត់",
+  
+  "fullName": "ឈ្មោះពេញ",
+  
+  "age": "អាយុ",
+  
+  "location": "ទីតាំង",
+  
+  "search": "ស្វែងរក",
+  
+  "filter": "តម្រង",
+  
+  "home": "ទំព័រដើម",
+  
+  "messages": "សារ",
+  
+  "profile": "ប្រវត្តិរូប",
+  
+  "settings": "ការកំណត់",
+  
+  "like": "ចូលចិត្ត",
+  
+  "message": "ផ្ញើសារ",
+  
+  "skip": "រំលង",
+  
+  "next": "បន្ទាប់",
+  
+  "getStarted": "ចាប់ផ្តើម",
+  
+  "welcome": "សូមស្វាគមន៍មកកាន់ ខ្មែរគូ",
+  
+  "welcomeDescription": "ស្វែងរកដៃគូដ៏ល្អឥតខ្ចោះរបស់អ្នកនៅកម្ពុជា",
+  
+  "discoverTitle": "រកឃើញមនុស្សអស្ចារ្យ",
+  
+  "discoverDescription": "រកមើលប្រវត្តិរូប និងស្វែងរកនរណាម្នាក់ពិសេស",
+  
+  "connectTitle": "ភ្ជាប់ & ជជែក",
+  
+  "connectDescription": "ចាប់ផ្តើមការសន្ទនាដ៏មានន័យជាមួយដៃគូរបស់អ្នក",
+  
+  "languageSettings": "ការកំណត់ភាសា",
+  
+  "english": "អង់គ្លេស",
+  
+  "khmer": "ខ្មែរ",
+  
+  "ageRange": "ចន្លោះអាយុ",
+  
+  "distance": "ចម្ងាយ",
+  
+  "interests": "ចំណាប់អារម្មណ៍",
+  
+  "bio": "ប្រវត្តិសង្ខេប",
+  
+  "photos": "រូបភាព",
+  
+  "online": "អនឡាញ",
+  
+  "offline": "ក្រៅបណ្តាញ",
+  
+  "typeMessage": "វាយសារ...",
+  
+  "send": "ផ្ញើ",
+  
+  "noMessages": "មិនទាន់មានសារ",
+  
+  "startConversation": "ចាប់ផ្តើមការសន្ទនា",
+  
+  "logout": "ចាកចេញ",
+  
+  "editProfile": "កែប្រែប្រវត្តិរូប",
+  
+  "save": "រក្សាទុក",
+  
+  "cancel": "បោះបង់",
+  
+  "forgotPassword": "ភ្លេចលេខសម្ងាត់?",
+  
+  "dontHaveAccount": "មិនមានគណនី?",
+  
+  "alreadyHaveAccount": "មានគណនីរួចហើយ?",
+  
+  "yearsOld": "ឆ្នាំ",
+  
+  "kmAway": "គីឡូម៉ែត្រ"
+}

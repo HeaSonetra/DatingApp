@@ -1,0 +1,110 @@
+[
+  {
+    "id": "msg_1",
+    "senderId": "1",
+    "receiverId": "current_user",
+    "content": "Hey! How's your day going?",
+    "timestamp": "2024-01-15T11:45:00.000Z",
+    "isRead": false,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_2",
+    "senderId": "current_user",
+    "receiverId": "1",
+    "content": "Hi Sophea! It's going great, thanks for asking 😊",
+    "timestamp": "2024-01-15T11:30:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_3",
+    "senderId": "1",
+    "receiverId": "current_user",
+    "content": "That's wonderful to hear! Any exciting plans for the weekend?",
+    "timestamp": "2024-01-15T11:25:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_4",
+    "senderId": "current_user",
+    "receiverId": "3",
+    "content": "That coffee place you recommended was amazing!",
+    "timestamp": "2024-01-15T10:30:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_5",
+    "senderId": "3",
+    "receiverId": "current_user",
+    "content": "I'm so glad you liked it! They have the best cappuccino in town ☕",
+    "timestamp": "2024-01-15T10:15:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_6",
+    "senderId": "current_user",
+    "receiverId": "4",
+    "content": "Would love to join your yoga class sometime 🧘‍♀️",
+    "timestamp": "2024-01-15T09:15:00.000Z",
+    "isRead": false,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_7",
+    "senderId": "4",
+    "receiverId": "current_user",
+    "content": "That would be amazing! I teach every Tuesday and Thursday at 6 PM",
+    "timestamp": "2024-01-15T09:00:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_8",
+    "senderId": "current_user",
+    "receiverId": "6",
+    "content": "Good luck with your presentation tomorrow!",
+    "timestamp": "2024-01-14T18:20:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_9",
+    "senderId": "6",
+    "receiverId": "current_user",
+    "content": "Thank you so much! Your support means a lot 💪",
+    "timestamp": "2024-01-14T18:00:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_10",
+    "senderId": "current_user",
+    "receiverId": "8",
+    "content": "Your design portfolio is incredible! 🎨",
+    "timestamp": "2024-01-14T16:45:00.000Z",
+    "isRead": false,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_11",
+    "senderId": "8",
+    "receiverId": "current_user",
+    "content": "Thank you! I put a lot of heart into each project",
+    "timestamp": "2024-01-14T16:30:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  },
+  {
+    "id": "msg_12",
+    "senderId": "8",
+    "receiverId": "current_user",
+    "content": "Would you like to see some of my latest work?",
+    "timestamp": "2024-01-14T16:25:00.000Z",
+    "isRead": true,
+    "messageType": "text"
+  }
+]

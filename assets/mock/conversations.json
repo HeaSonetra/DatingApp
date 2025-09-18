@@ -1,0 +1,37 @@
+[
+  {
+    "id": "conv_1",
+    "participants": ["current_user", "1"],
+    "lastMessage": "Hey! How's your day going?",
+    "lastMessageTime": "2024-01-15T11:45:00.000Z",
+    "unreadCount": 2
+  },
+  {
+    "id": "conv_2",
+    "participants": ["current_user", "3"],
+    "lastMessage": "That coffee place you recommended was amazing!",
+    "lastMessageTime": "2024-01-15T10:30:00.000Z",
+    "unreadCount": 0
+  },
+  {
+    "id": "conv_3",
+    "participants": ["current_user", "4"],
+    "lastMessage": "Would love to join your yoga class sometime 🧘‍♀️",
+    "lastMessageTime": "2024-01-15T09:15:00.000Z",
+    "unreadCount": 1
+  },
+  {
+    "id": "conv_4",
+    "participants": ["current_user", "6"],
+    "lastMessage": "Good luck with your presentation tomorrow!",
+    "lastMessageTime": "2024-01-14T18:20:00.000Z",
+    "unreadCount": 0
+  },
+  {
+    "id": "conv_5",
+    "participants": ["current_user", "8"],
+    "lastMessage": "Your design portfolio is incredible! 🎨",
+    "lastMessageTime": "2024-01-14T16:45:00.000Z",
+    "unreadCount": 3
+  }
+]

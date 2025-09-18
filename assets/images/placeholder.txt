@@ -1,0 +1,2 @@
+# Placeholder file to ensure assets/images directory exists
+# Add your app images here

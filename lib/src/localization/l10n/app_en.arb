@@ -1,0 +1,246 @@
+{
+  "appTitle": "KhmerCouple",
+  "@appTitle": {
+    "description": "The title of the application"
+  },
+  
+  "login": "Login",
+  "@login": {
+    "description": "Login button text"
+  },
+  
+  "register": "Register",
+  "@register": {
+    "description": "Register button text"
+  },
+  
+  "email": "Email",
+  "@email": {
+    "description": "Email field label"
+  },
+  
+  "password": "Password",
+  "@password": {
+    "description": "Password field label"
+  },
+  
+  "confirmPassword": "Confirm Password",
+  "@confirmPassword": {
+    "description": "Confirm password field label"
+  },
+  
+  "fullName": "Full Name",
+  "@fullName": {
+    "description": "Full name field label"
+  },
+  
+  "age": "Age",
+  "@age": {
+    "description": "Age field label"
+  },
+  
+  "location": "Location",
+  "@location": {
+    "description": "Location field label"
+  },
+  
+  "search": "Search",
+  "@search": {
+    "description": "Search button text"
+  },
+  
+  "filter": "Filter",
+  "@filter": {
+    "description": "Filter button text"
+  },
+  
+  "home": "Home",
+  "@home": {
+    "description": "Home tab label"
+  },
+  
+  "messages": "Messages",
+  "@messages": {
+    "description": "Messages tab label"
+  },
+  
+  "profile": "Profile",
+  "@profile": {
+    "description": "Profile tab label"
+  },
+  
+  "settings": "Settings",
+  "@settings": {
+    "description": "Settings tab label"
+  },
+  
+  "like": "Like",
+  "@like": {
+    "description": "Like button text"
+  },
+  
+  "message": "Message",
+  "@message": {
+    "description": "Message button text"
+  },
+  
+  "skip": "Skip",
+  "@skip": {
+    "description": "Skip button text"
+  },
+  
+  "next": "Next",
+  "@next": {
+    "description": "Next button text"
+  },
+  
+  "getStarted": "Get Started",
+  "@getStarted": {
+    "description": "Get started button text"
+  },
+  
+  "welcome": "Welcome to KhmerCouple",
+  "@welcome": {
+    "description": "Welcome message"
+  },
+  
+  "welcomeDescription": "Find your perfect match in Cambodia",
+  "@welcomeDescription": {
+    "description": "Welcome description"
+  },
+  
+  "discoverTitle": "Discover Amazing People",
+  "@discoverTitle": {
+    "description": "Discover onboarding title"
+  },
+  
+  "discoverDescription": "Browse through profiles and find someone special",
+  "@discoverDescription": {
+    "description": "Discover onboarding description"
+  },
+  
+  "connectTitle": "Connect & Chat",
+  "@connectTitle": {
+    "description": "Connect onboarding title"
+  },
+  
+  "connectDescription": "Start meaningful conversations with your matches",
+  "@connectDescription": {
+    "description": "Connect onboarding description"
+  },
+  
+  "languageSettings": "Language Settings",
+  "@languageSettings": {
+    "description": "Language settings title"
+  },
+  
+  "english": "English",
+  "@english": {
+    "description": "English language option"
+  },
+  
+  "khmer": "Khmer",
+  "@khmer": {
+    "description": "Khmer language option"
+  },
+  
+  "ageRange": "Age Range",
+  "@ageRange": {
+    "description": "Age range filter label"
+  },
+  
+  "distance": "Distance",
+  "@distance": {
+    "description": "Distance filter label"
+  },
+  
+  "interests": "Interests",
+  "@interests": {
+    "description": "Interests label"
+  },
+  
+  "bio": "Bio",
+  "@bio": {
+    "description": "Bio label"
+  },
+  
+  "photos": "Photos",
+  "@photos": {
+    "description": "Photos label"
+  },
+  
+  "online": "Online",
+  "@online": {
+    "description": "Online status"
+  },
+  
+  "offline": "Offline",
+  "@offline": {
+    "description": "Offline status"
+  },
+  
+  "typeMessage": "Type a message...",
+  "@typeMessage": {
+    "description": "Message input placeholder"
+  },
+  
+  "send": "Send",
+  "@send": {
+    "description": "Send button text"
+  },
+  
+  "noMessages": "No messages yet",
+  "@noMessages": {
+    "description": "No messages placeholder"
+  },
+  
+  "startConversation": "Start a conversation",
+  "@startConversation": {
+    "description": "Start conversation text"
+  },
+  
+  "logout": "Logout",
+  "@logout": {
+    "description": "Logout button text"
+  },
+  
+  "editProfile": "Edit Profile",
+  "@editProfile": {
+    "description": "Edit profile button text"
+  },
+  
+  "save": "Save",
+  "@save": {
+    "description": "Save button text"
+  },
+  
+  "cancel": "Cancel",
+  "@cancel": {
+    "description": "Cancel button text"
+  },
+  
+  "forgotPassword": "Forgot Password?",
+  "@forgotPassword": {
+    "description": "Forgot password link text"
+  },
+  
+  "dontHaveAccount": "Don't have an account?",
+  "@dontHaveAccount": {
+    "description": "Don't have account text"
+  },
+  
+  "alreadyHaveAccount": "Already have an account?",
+  "@alreadyHaveAccount": {
+    "description": "Already have account text"
+  },
+  
+  "yearsOld": "years old",
+  "@yearsOld": {
+    "description": "Years old suffix"
+  },
+  
+  "kmAway": "km away",
+  "@kmAway": {
+    "description": "Kilometers away suffix"
+  }
+}
