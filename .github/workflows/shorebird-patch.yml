@@ -1,0 +1,52 @@
+name: Shorebird OTA Patch​​ (projectfjmI)
+
+on:
+  workflow_dispatch: {} # Manual trigger
+
+jobs:
+  patch:
+    runs-on: ubuntu-latest
+    steps:
+      # Step 1: Checkout code
+      - uses: actions/checkout@v4
+
+      # Step 2: Setup Flutter
+      - name: Setup Flutter
+        uses: subosito/flutter-action@v2
+        with:
+          channel: stable
+          flutter-version: "3.35.3" # Supported by Shorebird
+
+      # Step 3: Setup Shorebird CLI
+      - name: Setup Shorebird
+        uses: shorebirdtech/setup-shorebird@v1
+        with:
+          cache: true
+
+      # Step 4: Verify Shorebird installation
+      - name: Verify Shorebird
+        run: |
+          which shorebird
+          shorebird --version
+
+      # Step 5: Clean build cache and get dependencies
+      - name: Clean build cache
+        run: |
+          flutter clean
+          flutter pub get
+
+      # Step 6: Check Flutter & Dart version
+      - name: Check Flutter & Dart version
+        run: |
+          flutter --version
+          dart --version
+
+      # Step 7: Create OTA patch
+      - name: Create OTA patch
+        env:
+          SHOREBIRD_TOKEN: ${{ secrets.SHOREBIRD_TOKEN }}
+        run: |
+          # Patch specific version to match device tester (1.0.2+4)
+          shorebird patch android --release-version=1.0.2+4 --no-confirm --allow-asset-diffs
+            # If you need a specific release version, comment the line above and use:
+            # shorebird patch android --release-version "1.0.3+5" --no-confirm --flutter-version=3.35.3
