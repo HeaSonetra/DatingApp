@@ -1,7 +1,7 @@
 name: khmer_match
 description: KhmerCouple - A Flutter dating app for Cambodia with Khmer localization
 publish_to: 'none'
-version: 2.0.0+1
+version: 1.0.2+4
 
 environment:
   sdk: '>=3.0.0 <4.0.0'
